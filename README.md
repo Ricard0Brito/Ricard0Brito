@@ -11,7 +11,6 @@ Me chamo Ricardo Brito Teixeira Junior, tenho 18 anos e sou natural do Rio de Ja
             src="https://custom-icon-badges.demolab.com/github/stars/Ricard0Brito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)
     <a href="https://github.com/Ricard0Brito?tab=followers">
         <img 
             alt="Seguidores" 
