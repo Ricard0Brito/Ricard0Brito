@@ -1,4 +1,5 @@
-# 😁 Ricardo Brito
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" width="30"/> Olá me chamo Ricardo 😁</h1>
 
 Me chamo Ricardo Brito Teixeira Junior, tenho 18 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Sesi/SENAI, com o curso técnico em Mecatrônica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia e automação.
 
@@ -18,6 +19,16 @@ Me chamo Ricardo Brito Teixeira Junior, tenho 18 anos e sou natural do Rio de Ja
         />
     </a>
 </p>
+<p>
+    📩Entre em contato !
+</p>
+
+<p>
+    <a href="mailto:ricardobrito.tec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="www.linkedin.com/in/ricardo-brito-junior"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+
 
 ---
 
