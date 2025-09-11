@@ -97,4 +97,6 @@ Me chamo Ricardo Brito Teixeira Junior, tenho 18 anos e sou natural do Rio de Ja
   />
 
 </p>
+<p>
 <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/></p>
+</p>
