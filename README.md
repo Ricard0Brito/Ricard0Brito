@@ -77,6 +77,8 @@ Me chamo Ricardo Brito Teixeira Junior, tenho 18 anos e sou natural do Rio de Ja
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
